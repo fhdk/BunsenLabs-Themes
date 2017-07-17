@@ -5,7 +5,7 @@ menu.title.bg: flat gradient vertical bevel1
 menu.title.bg.color: #3c3c3c
 menu.title.bg.colorTo: #3c3c3c
 menu.title.text.color: #d9d9d9
-menu.title.text.justify: right
+menu.title.text.justify: center
 
 menu.items.bg: flat solid
 menu.items.bg.color: #3C3C3C
