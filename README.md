@@ -1,5 +1,5 @@
-# bunsen-themes-dev
-Themes for BunsenLabs "Helium" / Debian "stretch"
+# BunsenLabs-Themes
+Themes from BunsenLabs for use in ArchLabs
 
 Only tested using libgtk-3.0 (3.22.8), YMMV.
 
